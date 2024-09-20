@@ -1,5 +1,5 @@
 
-# Automated Tennis Data Pipeline
+# Tennis data integration gcp
 
 Welcome to the project where we build an automated data pipeline for tennis data using Google Cloud Platform (GCP). This tutorial guides you through the setup of a robust data pipeline that retrieves, processes, and visualizes tennis data.
 
